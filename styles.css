@@ -1,0 +1,31 @@
+.container {
+
+    border: solid;
+    border-radius: 11px;
+    border-color: black;
+    max-height:500px;
+    max-width: 250px;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+.container2 {
+    display: block;
+    margin: 0px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.inverted{
+    rotate: z 0.5turn;
+    align-self: right;
+}
+
+.corazong{
+    font-size: 150;
+    align-self: center;
+}
